@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Al-ys BONNEUX-travaux</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+	<h1>
+		Mes Travaux
+	</h1>
+	<nav>
+		<h2>
+			Edition
+		</h2>
+			<a href="file:///C:/Users/33784/Desktop/SITE%20PRO%20bonneux%20al/html/Fanzine">Fanzine</a>	
+			<a href="file:///C:/Users/33784/Desktop/SITE%20PRO%20bonneux%20al/html/Micro%20%C3%A9dition">Micro-édition</a>
+		<h2>
+			Illustration
+		</h2>
+			<a href="file:///C:/Users/33784/Desktop/SITE%20PRO%20bonneux%20al/html/lino%20mono">Linogravures/ Monotypes</a>
+			<a href="file:///C:/Users/33784/Desktop/SITE%20PRO%20bonneux%20al/html/dessins">Dessins</a>
+		<h2>
+			Graphisme
+		</h2>
+		<a href="file:///C:/Users/33784/Desktop/SITE%20PRO%20bonneux%20al/html/projetscolaires">Projets scolaires</a>
+	</nav>
+	</body>
+</html>

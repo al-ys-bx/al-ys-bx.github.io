@@ -1,0 +1,32 @@
+body{
+	text-align: center;
+	background-color: lightgrey;
+}
+h1{color: green;
+	font-family: 'Arial', cursive;
+	text-transform: uppercase;
+	background-color: black;
+	text-shadow: -1px 0 white, 0 1px white,
+      1px 0 white, 0 -1px white
+}
+h2{color: grey;
+	font-family: 'Arial', cursive;
+	text-transform: uppercase;
+	background-color: black;
+	text-shadow: -1px 0 white, 0 1px white,
+      1px 0 white, 0 -1px white
+}
+a{color: violet;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-decoration: none;
+}
+p{font-family: 'Open Sans Condensed', sans-serif;
+}
+h3{font-family: 'Open Sans Condensed', sans-serif;
+}
+/*navbar*/
+nav{
+	overflow: hidden;
+	background-color: black;
+}
+

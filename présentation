@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Al-ys BONNEUX-presentation</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+		<h1>
+			Présentation
+		</h1>
+		<p>
+			Je m'appelle Al-ys
+		</p>
+		<p>
+			Je suis étudiant en 1ère année de DN-MADe
+		</p>
+		<p>
+			J'utilise le pronom il
+		</p>
+		<h1>
+			Contact
+		</h1>
+		<a href="https://www.instagram.com/mots.a.mes.corps/?hl=fr">Instagram</a>
+		<h2>
+			Mes influences
+		</h2>
+		<p>
+			Techno
+		</p>
+		<p>
+			Punk
+  		</p>
+  		<p>
+  			Militantisme
+  		</p>
+  		<p>
+  			Autogestion
+  		</p>
+		<h2>
+			Mes références
+		</h2>
+		<p>
+			Nan Goldin (photographie)
+		</p>
+		<img src="img/nangoldin.jpg">
+		<p>
+			Matalie Crasset (design d'objet)
+		</p>
+		<img src="img/permisdeconstruire.jpg">
+	</body>
+</html>

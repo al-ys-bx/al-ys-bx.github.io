@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Al-ys BONNEUX-Projets Scolaires</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/style.css">	
+	</head>
+	<body>
+		<h1>
+			Projets Scolaires
+		</h1>
+		<h2>
+			Affiches
+		</h2>
+		<h3>
+			Intersections
+		</h3>
+		<h3>
+			RATP
+		</h3>
+		<h2>
+			Edition
+		</h2>
+		<h3>
+			Mode d'emploi
+		</h3>
+		<h3>
+			Les petites nuits de Sceaux
+		</h3>
+	</body>
+</html>
